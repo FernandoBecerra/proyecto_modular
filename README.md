@@ -23,7 +23,7 @@ El objetivo de este proyecto es desarrollar una herramienta de código abierto q
 
 ## Instalacion
 
-## Git
+### Git
 Para instalar git simplemente debemos dirigirnos al siguiente enlace [Git](https://git-scm.com/) e instalar la version mas reciente
 
 
