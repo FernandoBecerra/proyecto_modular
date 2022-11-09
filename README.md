@@ -19,8 +19,13 @@ El objetivo de este proyecto es desarrollar una herramienta de código abierto q
 | VisualStudio C++  tools  | Más actual                   |
 | MediaPipe                | 0.8.11                       |
 | Anaconda                 | 2022.10                      |
+| Git                      | 2.38.1                       |
 
 ## Instalacion
+
+## Git
+Para instalar git simplemente debemos dirigirnos al siguiente enlace [Git](https://git-scm.com/) e instalar la version mas reciente
+
 
 ### Python
 Para instalar python recomendamos crear un entorno de desarrollo virtual con la herramienta de anaconda, ya que nos permite manejar distintos entornos de desarrollo 
@@ -77,4 +82,16 @@ En el nuevo command prompt escribimos lo siguiente: **protoc**
 Nos deberia de aparecer todas las opciones disponibles de protoc.
 Listo, tenemos instalado Protobuff
 
-## Tensorflow Object Detection API
+## Tensorflow Object Detection API 
+Para instalar Tensorflow Object Detection API es indispensable tener las herramientas anteriores previamente instaladas.
+
+Pasos para instalar Tensorflow Object Detection API:
+1. Abrir un nuevo command prompt con permisos de administrador (indispensable)
+2. Nos dirigimos al directorio donde tenemos descargado nuestro proyecto (este repositorio)
+3. Clonamos el repositorio: **git clone https://github.com/tensorflow/models.git**
+4. Ahora tendemos que navegar entre los directorios con el siguiente comando: **cd Tensorflow\models\research**
+5. Una vez dentro del directorio research tendremos que ejecutar el siguiente comando: **protoc object_detection/protos/*.proto --python_out=.**
+6. Ahora tendremos que copiar el archivo setup.py a nuestro directorio actual con el siguiente comando: **copy object_detection/packages/tf2/setup.py .**
+7. Ejecutamos el siguiente comando: **python3 -m pip install .**
+
+Listo, tenemos Tensorflow Object Detection API instalado.
