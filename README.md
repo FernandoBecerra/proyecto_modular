@@ -28,6 +28,11 @@ Antes de empezar, es necesario descargar los siguientes archivos .zip:
 # Entorno de trabajo
 Una vez descargados estos dos archivos tendremos que ir  a [Google Colab](https://colab.research.google.com/drive/19xdormrymTMot10tBfPwxvyL9i8AG0SO#scrollTo=UOkIUG0T_29I).
 
+Pasos para adquirir el entorno de trabajo
+1. Dar click en la parte superior izquierda en **Archivo**
+2. Guardar una copia en Drive
+3. Abrir nuevo cuaderno y seleccionamos el entorno de trabajo copiado
+
 # Google Drive
 En una nueva pestaña iremos a nuestro [Google Drive](https://drive.google.com/).
 
