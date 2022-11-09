@@ -3,15 +3,15 @@
 El objetivo de este proyecto es desarrollar una herramienta de código abierto que mediante el uso de nuevas tecnologías como la Inteligencia artificial, permita a los usuarios utilizar un programa para agilizar la manera en la que llevan a cabo sus actividades diarias de comunicación.
 
 # Indice
--[Google Colab](#Google-Colab)
--[Instalacion local](#Instalacion-local)
-  -[Librerias](#Librerias)
-  -[Git](#Git)
-  -[Python](#Python)
-  -[Tensorflow](#Tensorflow)
-  -[VisualStudio C++ Tools](#VisualStudio-C++-Tools)
-  -[Protobuff](#Protobuff)
-  -[Tensorflow Object Detection API](#Tensorflow-Object-Detection-API)
+- [Google Colab](#Google-Colab)
+- [Instalacion local](#Instalacion-local)
+  - [Librerias](#Librerias)
+  - [Git](#Git)
+  - [Python](#Python)
+  - [Tensorflow](#Tensorflow)
+  - [VisualStudio C++ Tools](#VisualStudio-C++-Tools)
+  - [Protobuff](#Protobuff)
+  - [Tensorflow Object Detection API](#Tensorflow-Object-Detection-API)
   
 # Google Colab
 Para ejecutar el entrenamiento de nuestro modelo es recomendado utilizar Google Colab ya que desde la version gratuita podemos acceder
