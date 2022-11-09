@@ -2,11 +2,27 @@
 
 El objetivo de este proyecto es desarrollar una herramienta de código abierto que mediante el uso de nuevas tecnologías como la Inteligencia artificial, permita a los usuarios utilizar un programa para agilizar la manera en la que llevan a cabo sus actividades diarias de comunicación.
 
-## Indice
+# Indice
+
+
+# Google Colab
+Para ejecutar el entrenamiento de nuestro modelo es recomendado utilizar Google Colab ya que desde la version gratuita podemos acceder
+a una tarjeta grafica dedica al entrenamiento de redes neuronales con 16GB de VRAM.
+
+Antes de empezar, es necesario descargar los siguientes archivos .zip donde se almacenan las imagenes del dataset.
+[Dataset lenguaje de señas mexicano](https://drive.google.com/uc?id=1ZRKbzhIk85v6nUxug7WGBUL7rYx0Msjq&export=download)
+[Archivos XML](https://drive.google.com/uc?id=1IZPkUvhPvGq-UMm6EFFmE_PJizVudY-i&export=download)
+
+
+Una vez descargados estos dos archivos tendremos que ir  a [Google Colab](https://colab.research.google.com/drive/19xdormrymTMot10tBfPwxvyL9i8AG0SO#scrollTo=UOkIUG0T_29I).
+
+En una nueva pestaña iremos a nuestro [Google Drive](https://drive.google.com/).
+
+Y seguir las instrucciones dentro del archivo .ipynb ejecutando celda por celda.
 
 
 
-## Las librerias necesarias para la ejecucion de este proyecto de manera local son las siguientes:
+# Las librerias necesarias para la ejecucion de este proyecto de manera local son las siguientes:
 
 |                          | Version                      | 
 |--------------------------|------------------------------|
@@ -95,3 +111,4 @@ Pasos para instalar Tensorflow Object Detection API:
 7. Ejecutamos el siguiente comando: **python3 -m pip install .**
 
 Listo, tenemos Tensorflow Object Detection API instalado.
+
