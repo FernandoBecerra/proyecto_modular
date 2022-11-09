@@ -3,6 +3,7 @@
 El objetivo de este proyecto es desarrollar una herramienta de código abierto que mediante el uso de nuevas tecnologías como la Inteligencia artificial, permita a los usuarios utilizar un programa para agilizar la manera en la que llevan a cabo sus actividades diarias de comunicación.
 
 # Indice
+- [Entrenamiento en la nube](#Entrenamiento)
 - [Google Colab](#Google-Colab)
   - [Dataset](#Dataset)
   - [Entorno de trabajo](#Entorno-de-trabajo)
@@ -15,8 +16,10 @@ El objetivo de este proyecto es desarrollar una herramienta de código abierto q
   - [VisualStudio C++ Tools](#VisualStudio-C++-Tools)
   - [Protobuff](#Protobuff)
   - [Tensorflow Object Detection API](#Tensorflow-Object-Detection-API)
-  
-# Google Colab
+- [Ejecucion local](#Ejecucion-local)
+
+# Entrenamiento  
+## Google Colab
 Para ejecutar el entrenamiento de nuestro modelo es recomendado utilizar Google Colab ya que desde la version gratuita podemos acceder
 a una tarjeta grafica dedica al entrenamiento de redes neuronales con 16GB de VRAM.
 
