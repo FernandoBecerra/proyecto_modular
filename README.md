@@ -17,6 +17,7 @@ El objetivo de este proyecto es desarrollar una herramienta de código abierto q
     - [VisualStudio C++ Tools](#VisualStudio-C++-Tools)
     - [Protobuff](#Protobuff)
     - [Tensorflow Object Detection API](#Tensorflow-Object-Detection-API)
+    - [Dataset local](#Dataset-local)
 
 
 # Nube  
@@ -140,3 +141,8 @@ Pasos para instalar Tensorflow Object Detection API:
 7. Ejecutamos el siguiente comando: **python3 -m pip install .**
 
 Listo, tenemos Tensorflow Object Detection API instalado.
+
+## Dataset local
+Antes de empezar, es necesario descargar los siguientes archivos .zip:
+1. [Dataset lenguaje de señas mexicano](https://drive.google.com/uc?id=1ZRKbzhIk85v6nUxug7WGBUL7rYx0Msjq&export=download)
+2. [Archivos XML](https://drive.google.com/uc?id=1IZPkUvhPvGq-UMm6EFFmE_PJizVudY-i&export=download)
