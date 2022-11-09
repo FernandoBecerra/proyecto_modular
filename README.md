@@ -4,10 +4,10 @@ El objetivo de este proyecto es desarrollar una herramienta de código abierto q
 
 # Indice
 - [Entrenamiento en la nube](#Entrenamiento)
-- [Google Colab](#Google-Colab)
-  - [Dataset](#Dataset)
-  - [Entorno de trabajo](#Entorno-de-trabajo)
-  - [Google Drive](#Google-Drive) 
+  - [Google Colab](#Google-Colab)
+    - [Dataset](#Dataset)
+    - [Entorno de trabajo](#Entorno-de-trabajo)
+    - [Google Drive](#Google-Drive) 
 - [Instalacion local](#Instalacion-local)
   - [Librerias](#Librerias)
   - [Git](#Git)
