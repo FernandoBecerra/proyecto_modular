@@ -3,22 +3,23 @@
 El objetivo de este proyecto es desarrollar una herramienta de código abierto que mediante el uso de nuevas tecnologías como la Inteligencia artificial, permita a los usuarios utilizar un programa para agilizar la manera en la que llevan a cabo sus actividades diarias de comunicación.
 
 # Indice
-- [Entrenamiento en la nube](#Entrenamiento)
+- [Nube](#Nube)
   - [Google Colab](#Google-Colab)
     - [Dataset](#Dataset)
     - [Entorno de trabajo](#Entorno-de-trabajo)
     - [Google Drive](#Google-Drive) 
-- [Instalacion local](#Instalacion-local)
-  - [Librerias](#Librerias)
-  - [Git](#Git)
-  - [Python](#Python)
-  - [Tensorflow](#Tensorflow)
-  - [VisualStudio C++ Tools](#VisualStudio-C++-Tools)
-  - [Protobuff](#Protobuff)
-  - [Tensorflow Object Detection API](#Tensorflow-Object-Detection-API)
-- [Ejecucion local](#Ejecucion-local)
+- [Local](#Local)
+  - [Instalacion local](#Instalacion-local)
+    - [Librerias](#Librerias)
+    - [Git](#Git)
+    - [Python](#Python)
+    - [Tensorflow](#Tensorflow)
+    - [VisualStudio C++ Tools](#VisualStudio-C++-Tools)
+    - [Protobuff](#Protobuff)
+    - [Tensorflow Object Detection API](#Tensorflow-Object-Detection-API)
 
-# Entrenamiento  
+
+# Nube  
 ## Google Colab
 Para ejecutar el entrenamiento de nuestro modelo es recomendado utilizar Google Colab ya que desde la version gratuita podemos acceder
 a una tarjeta grafica dedica al entrenamiento de redes neuronales con 16GB de VRAM.
@@ -47,8 +48,8 @@ Ahora deberemos seguir los siguientes pasos.
 
 Ahora solo falta seguir las instrucciones dentro del archivo .ipynb ejecutando celda por celda.
 
-
-# Instalacion local
+# Local
+## Instalacion local
 
 ## Librerias
 
@@ -139,4 +140,3 @@ Pasos para instalar Tensorflow Object Detection API:
 7. Ejecutamos el siguiente comando: **python3 -m pip install .**
 
 Listo, tenemos Tensorflow Object Detection API instalado.
-
