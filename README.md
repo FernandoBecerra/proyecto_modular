@@ -9,9 +9,9 @@ El objetivo de este proyecto es desarrollar una herramienta de código abierto q
 Para ejecutar el entrenamiento de nuestro modelo es recomendado utilizar Google Colab ya que desde la version gratuita podemos acceder
 a una tarjeta grafica dedica al entrenamiento de redes neuronales con 16GB de VRAM.
 
-Antes de empezar, es necesario descargar los siguientes archivos .zip donde se almacenan las imagenes del dataset.
-[Dataset lenguaje de señas mexicano](https://drive.google.com/uc?id=1ZRKbzhIk85v6nUxug7WGBUL7rYx0Msjq&export=download)
-[Archivos XML](https://drive.google.com/uc?id=1IZPkUvhPvGq-UMm6EFFmE_PJizVudY-i&export=download)
+Antes de empezar, es necesario descargar los siguientes archivos .zip:
+1. [Dataset lenguaje de señas mexicano](https://drive.google.com/uc?id=1ZRKbzhIk85v6nUxug7WGBUL7rYx0Msjq&export=download)
+2. [Archivos XML](https://drive.google.com/uc?id=1IZPkUvhPvGq-UMm6EFFmE_PJizVudY-i&export=download)
 
 
 Una vez descargados estos dos archivos tendremos que ir  a [Google Colab](https://colab.research.google.com/drive/19xdormrymTMot10tBfPwxvyL9i8AG0SO#scrollTo=UOkIUG0T_29I).
