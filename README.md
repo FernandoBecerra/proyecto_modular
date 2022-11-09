@@ -18,7 +18,13 @@ Una vez descargados estos dos archivos tendremos que ir  a [Google Colab](https:
 
 En una nueva pestaña iremos a nuestro [Google Drive](https://drive.google.com/).
 
-Y seguir las instrucciones dentro del archivo .ipynb ejecutando celda por celda.
+Ahora deberemos seguir los siguientes pasos.
+1. Dentro de Google Drive creamos una carpeta con el nombre 'CustomTF2'.
+2. Entramos a nuestra carpeta CustomTF2 y creamos otra carpeta llamada 'data'.
+3. Ahora nos dirigimos a nuestra carpeta CustomTF2 y subimos nuestro archivo **generate_tfrecords.py** de este repositorio.
+
+
+Ahora solo falta seguir las instrucciones dentro del archivo .ipynb ejecutando celda por celda.
 
 
 
